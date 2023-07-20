@@ -1,0 +1,31 @@
+h3{
+  font-family: cursive;
+  padding: 0.5em;
+
+}
+
+  span{
+  font-family: cursive;
+  text-align: center;
+  
+  }
+  
+  
+  
+  .contend {
+    width: 100%;
+  }
+
+  .vai-da-certo{
+    margin-top: 200px;
+    margin-left: 900px;
+    margin-right: 50px;
+    margin-bottom: 130px;
+    background-color: #733ca9;
+    border-radius: 5px;
+  }
+  .menu__link{
+    color: white;
+  }
+
+
